@@ -7,7 +7,7 @@ public class BallMoving : MonoBehaviour
 
     float speed = 10f;
     float rotateSpeed = 100f;
-    private float thrust = 8f;
+    private float thrust = 58f;
     private Rigidbody rb;
 
 
